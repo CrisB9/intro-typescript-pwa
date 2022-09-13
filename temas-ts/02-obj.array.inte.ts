@@ -20,7 +20,7 @@ interface Alumno{
     nombre:string,
     edad:number,
     email:string,
-    materia:string[]
+    materia?:string[]
 }
 
 
